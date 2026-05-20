@@ -1,16 +1,82 @@
-## Hi there 👋
+**#Fala, galera! Eu sou o César A.Pereira!👋**
 
-<!--
-**cesinhapereira/cesinhapereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software;  
+💻 Desenvolvedor Front-End em formação; 
+📚 Professor em transição para a área de tecnologia;  
+📍 De Pouso Alegre - MG, Brasil.
 
-Here are some ideas to get you started:
+Beleza? 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+**##🚀Sobre mim:** 
+
+Após mais de 16 anos atuando na área da educação, iniciei minha transição para a tecnologia através da Engenharia de Software e outros estudos que venho fazendo desde meados de 2021, que me agregaram experiências, entendimento em comunicação e pensamento analítico com relação ao desenvolvimento web moderno e outras áreas das tecnologias.
+
+Atualmente busco minha primeira oportunidade como Desenvolvedor Front-End Júnior ou Estagiário, com foco em construção de interfaces responsivas, organização de código e boas práticas de desenvolvimento.
+
+Também possuo interesse em Banco de Dados, modelagem e soluções orientadas a dados.
+
+---
+
+**##🛠️ Tecnologias e Ferramentas quais tenho conhecimento:**
+
+### Front-End
+- HTML5
+- CSS3
+- JavaScript
+- React
+
+### Banco de Dados
+- MySQL
+- Neo4j
+
+### Ferramentas
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📌 Objetivos atuais
+
+- Aprimorar minhas habilidades de Front;
+- Desenvolver projetos completos e responsivos;
+- Fortalecer conhecimentos em banco de dados;
+- Construir soluções web com foco em experiência do usuário;
+- Conquistar minha primeira oportunidade na área de tecnologia.
+
+---
+
+## 📂 Projetos que já realizei:
+
+### 🚗 Sistema de Locadora
+Projeto acadêmico voltado para modelagem de dados, estruturação de banco e desenvolvimento de sistema web.
+
+### 📊 Dashboard Web
+Aplicação Front-End com foco em componentes, responsividade e consumo de dados.
+
+### 🌐 Projetos Front-End
+Interfaces modernas utilizando HTML, CSS, JavaScript e React.
+
+---
+
+## 📖 Atualmente estudando
+
+- Engenharia de Requisitos;
+- Estruturas de Dados;
+- React;
+- SQL;
+- Clean Code;
+- Modelagem de Banco de Dados;
+- Análise de Requisitos...
+---
+
+## 🤝 Se quiser entrar em contato:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cesarpereira--webdev-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cesarpereira-webdev)
+
+📧 cesarhardvocaler@gmail.com
+
+---
+
+**⭐ Valeu pela visita! Grande abraço!!**
