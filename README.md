@@ -90,3 +90,97 @@ Interfaces modernas utilizando HTML, CSS, JavaScript e React.
 ---
 
 **⭐ Valeu pela visita! Grande abraço!!**
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**#Hey everyone! I'm César A. Pereira!👋**
+
+🎓 Software Engineering student;  
+💻 Front-End Developer in training;  
+📚 Teacher transitioning to the technology field;  
+📍 From Pouso Alegre - MG, Brazil.
+
+All good?  
+
+---
+**##🚀About me:** 
+
+After more than 16 years working in education, I started my transition into technology through Software Engineering and other studies I have been pursuing since around 2021, which have given me experience, communication skills, and analytical thinking regarding modern web development and other areas of technology.
+
+Currently, I am seeking my first opportunity as a Junior Front-End Developer or Intern, focusing on building responsive interfaces, code organization, and development best practices.
+
+I am also interested in Databases, data modeling, and data-driven solutions.
+
+---
+
+**##🛠️ Technologies and Tools I have knowledge of:**
+
+## 🚀 Front-End
+
+## 💻 Technologies
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+</p>
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.simpleicons.org/neo4j/4581C3" width="40" />
+</p>
+
+## 🛠️ Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+</p>
+
+## 📌 Current goals
+
+- Improve my Front-End skills;  
+- Develop complete and responsive projects;  
+- Strengthen database knowledge;  
+- Build web solutions focused on user experience;  
+- Land my first opportunity in the tech field.
+
+---
+
+## 📂 Projects I have worked on:
+
+### 🚗 Rental System
+Academic project focused on data modeling, database structuring, and system development.
+
+### 📊 Web Dashboard
+Front-End application focused on components, responsiveness, and data consumption.
+
+### 🌐 Front-End Projects
+Modern interfaces using HTML, CSS, JavaScript, and React.
+
+---
+
+## 📖 Currently studying
+
+- Requirements Engineering;  
+- Data Structures;  
+- React;  
+- SQL;  
+- Clean Code;  
+- Database Modeling;  
+- Requirements Analysis...
+
+---
+
+## 🤝 If you want to get in touch:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cesarpereira--webdev-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cesarpereira-webdev)
+
+📧 cesarhardvocaler@gmail.com
+
+---
+
+**⭐ Thanks for visiting! Big hug!!**
