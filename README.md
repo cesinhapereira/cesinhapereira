@@ -91,9 +91,7 @@ Interfaces modernas utilizando HTML, CSS, JavaScript e React.
 ---
 
 **⭐ Valeu pela visita! Grande abraço!!**
-
-
-
+---
 (ENG.)
 **#Hey everyone! I'm César A. Pereira!👋**
 
